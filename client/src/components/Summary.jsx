@@ -1,16 +1,9 @@
 import React, { useState } from 'react'
-import { Link } from '@reach/router';
 export default () => {
     return (
         <div>
             <div>
-            <h1>Welcome to my Porfolio</h1>
-            <p>Here you can find my recent projects, resume and about me</p>
-
-            <Link to = "/about">More About Me</Link>
-            </div>
-
-            <div>
+                <p>This website is a place to show some of my projects and to expand my career as a Software Developer.</p>
                 <h2>Featured Projects</h2>
                 <div>
                     <h3>Andy's Bodybuilding Challenge</h3>
