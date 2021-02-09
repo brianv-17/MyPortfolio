@@ -15,7 +15,7 @@ export default () => {
                     <li>Teach my younger brothers coding fundamentals</li>
                 </ul>
                 <p>Most of my professional career has been military, to be specific the United States Marine Corps</p>
-                <p>my Marine Corps career began in paris island where i earned the title of marine,MCT in CAmp Lejuene and my MOS training in Twentynine palms</p>
+                <p>my Marine Corps career began in paris island where i earned the title of marine, MCT in Camp Lejuene and my MOS training in Twentynine palms</p>
                 <Link to = "/portfolio">Home Page</Link>
             </div>
         </div>
