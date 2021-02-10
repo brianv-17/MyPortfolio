@@ -16,6 +16,11 @@ export default () => {
                 </ul>
                 <p>Most of my professional career has been military, to be specific the United States Marine Corps</p>
                 <p>my Marine Corps career began in paris island where i earned the title of marine, MCT in Camp Lejuene and my MOS training in Twentynine palms</p>
+                <p>I was stationed in Camp Pendleton with an artillery unit, during my service I deployed to Japan and Australia. I separated Honorably from the Marine Corps in june 2020</p>
+                <p>Uponmy separtaion I became a Charter Communications Salesperson, I enjoyed talking to custumers and the team. While at Charter I found that while i did enjoy my job i had a higher calling and passion.</p>
+                <p>with the encouragement og family, friends and mentors, I choose to start my Software Development career with Coding Dojo.</p>
+                <p>At coding dojo I became proficienyt in the fundamentals(HTML, Javascript and CSS), Python through Django, MERN(MongoDB, ExpresJS, ReactJS and NodeJS) and Java through Spring</p>
+                <p>With this gained knowledge i plan to persue programming to the best of my abilities and everyday i plan to learn even more</p>
                 <Link to = "/portfolio">Home Page</Link>
             </div>
         </div>
