@@ -22,6 +22,7 @@ export default () => {
                 <p>with the encouragement og family, friends and mentors, I choose to start my Software Development career with Coding Dojo.</p>
                 <p>At coding dojo I became proficienyt in the fundamentals(HTML, Javascript and CSS), Python through Django, MERN(MongoDB, ExpresJS, ReactJS and NodeJS) and Java through Spring</p>
                 <p>With this gained knowledge i plan to persue programming to the best of my abilities and everyday i plan to learn even more</p>
+                <p>im an avid runner </p>
                 <Link to = "/portfolio">Home Page</Link>
             </div>
         </div>
